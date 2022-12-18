@@ -1,4 +1,4 @@
 
 
-includes("HelloWindow/xmake.lua")
-includes("HelloTriangle/xmake.lua")
+includes("HelloWindow")
+includes("HelloTriangle")
